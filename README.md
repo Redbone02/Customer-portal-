@@ -1,2 +1,2 @@
-# Customer-portal-
+# Customer portal
 Customer portal 
